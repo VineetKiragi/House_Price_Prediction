@@ -27,7 +27,7 @@ function getBalconyValue() {
     }
     return -1; // Invalid Value
 }
-  
+   
 function onClickedEstimatePrice() {
     console.log("Estimate price button clicked");
     var sqft = document.getElementById("uiSqft");
